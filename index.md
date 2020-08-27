@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to NAtalie's programming portfolio
 
 You can use the [editor on GitHub](https://github.com/9670148/cpportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
